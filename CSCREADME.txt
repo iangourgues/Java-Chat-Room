@@ -42,5 +42,3 @@ NOTES:
 		"channel" can be a syncro-protected text file for chat history. Whenever
 		the server gets a message, the client handler writes the message in an
 		orderly fashion to the history log
-
-	-Ethan P
